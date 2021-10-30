@@ -1,0 +1,52 @@
+[
+    {
+        "name": "NETFLIX",
+        "img": "assets/netflix.jpg",
+        "url": "https://www.netflix.com/ca-fr/login"
+    },
+    {
+        "name": "YOUTUBE",
+        "img": "assets/youtube.jpg",
+        "url": "https://www.youtube.com/"
+    },
+    {
+        "name": "GOOGLE",
+        "img": "assets/google.jpg",
+        "url": "https://www.google.com"
+    },
+    {
+        "name": "SPOTIFY",
+        "img": "assets/spotify.png",
+        "url": "https://accounts.spotify.com/fr/login"
+    },
+    {
+        "name": "DEEZER",
+        "img": "assets/deezer.jpg",
+        "url": "https://www.deezer.com/fr/login"
+    },
+    {
+        "name": "SOUNDCLOUD",
+        "img": "assets/soundcloud.png",
+        "url": "https://soundcloud.com/"
+    },
+    {
+        "name": "FCINE",
+        "img": "assets/fcine.jpg",
+        "url": "https://fcine.me/"
+    },
+    {
+        "name": "MAVANIMES",
+        "img": "assets/mavanimes.png",
+        "url": "http://www.mavanimes.co/"
+    },
+    {
+        "name": "NEKO SAMA",
+        "img": "assets/neko-sama.jpg",
+        "url": "https://neko-sama.fr/"
+    },
+    {
+        "name": "PORNHUB",
+        "img": "assets/pornhub.jpg",
+        "url": "https://fr.pornhub.com/"
+    }
+]
